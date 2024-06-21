@@ -4,7 +4,7 @@
  
 <p align="left"> <a href="https://twitter.com/kijmoshi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kijmoshi_dev?logo=twitter&style=for-the-badge" alt="kijmoshi_dev" /></a> </p>
 
-- 🔭 I’m currently working on [my page](https://kijmoshi.xyz)
+- 🔭 I’m currently working on [discord clone](https://github.com/real-kijmoshi/discord-clone2)
 
 - 🌱 I’m currently learning **react-native**
 
